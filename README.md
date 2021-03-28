@@ -7,8 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at The European University of Lefke.
 - 💼 &nbsp; Working on making the world a better place using code.
-- ![image](https://user-images.githubusercontent.com/51300343/112762885-c985e480-900a-11eb-98be-9d4837f6b5e7.png)
- &nbsp;  Currently open to opportunities like internships, freelance projects and work.
+- 💡 &nbsp; Currently open to opportunities like internships, freelance projects and work.
 - 🌱 &nbsp; Learning more about Frontend Development and exploring backend tech like Nodejs.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
