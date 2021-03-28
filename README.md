@@ -8,7 +8,6 @@
 - 🎓 &nbsp; Studying Computer Engineering at The European University of Lefke.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Frontend Development and exploring backend tech like Nodejs.
-##- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -52,4 +51,4 @@
 <a href="mailto:sallahbbc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sallahbbc@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [SallahTech](https://github.com/SallahTech)
