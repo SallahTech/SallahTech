@@ -27,9 +27,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-  
-<h3> 🛠 &nbsp;Exploring in my free time</h3>
+<h3> 🛠 &nbsp; Exploring in my free time</h3>
 - 🖥 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -49,7 +47,7 @@
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/sallah-baboucarr-1630b1198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Baboucarr%20Sallah-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.co/sallah_tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.co/sallah_tech/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sallah_tech-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:sallahbbc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sallahbbc@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
